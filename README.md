@@ -10,4 +10,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/CSS3-333942?logo=css3&logoColor=#1572B6&style=for-the-badge" alt="CSS badge"> <img src="https://img.shields.io/badge/electron-333942?logo=electron&logoColor=#47848F&style=for-the-badge" alt="Electron badge"> <img src="https://img.shields.io/badge/firebase?logo=firebase&logoColor=#DD2C00&style=for-the-badge" alt="Electron badge">
+<img src="https://img.shields.io/badge/CSS3-333942?logo=css3&logoColor=#1572B6&style=for-the-badge" alt="CSS badge"> <img src="https://img.shields.io/badge/electron-333942?logo=electron&logoColor=#47848F&style=for-the-badge" alt="Electron badge"> <img src="https://img.shields.io/badge/firebase-333942?logo=firebase&logoColor=#DD2C00&style=for-the-badge" alt="Electron badge">
